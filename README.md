@@ -16,7 +16,7 @@ a high-throughput distributed messaging system, and a database, allowing for eff
 ## Usage
 
 
-```bash
+
   1. Clone this repository to your local machine.
 ```
 
