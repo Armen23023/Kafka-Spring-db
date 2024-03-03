@@ -17,20 +17,17 @@ a high-throughput distributed messaging system, and a database, allowing for eff
 
 
 
-  1. Clone this repository to your local machine.
-```
+####  1. Clone this repository to your local machine.
 
-```bash
-  2. Run the "kafka-docker-compose.yml" and "postgres-docker-compose.yml"
-```
 
-```bash
-  3. Create db named "user-data"
-```
+####  2. Run the "kafka-docker-compose.yml" and "postgres-docker-compose.yml"
 
-```bash
-  4. Run the app
-```
+
+####  3. Create db named "user-data"
+
+
+####  4. Run the app
+
 
 
 ## 
