@@ -9,7 +9,7 @@ a high-throughput distributed messaging system, and a database, allowing for eff
 ## Prerequisites
 
 - You must have Docker for Kafka server and PostgreSQL server
-- Application for sending request Json to Kafka producer (Postman) 
+- Application for sending requests Json to Kafka producer (Postman) 
  
 
 
